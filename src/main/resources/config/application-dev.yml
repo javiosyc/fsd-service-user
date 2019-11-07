@@ -18,6 +18,9 @@ logging:
     ROOT: DEBUG
     io.github.jhipster: DEBUG
     com.fsd.sba: DEBUG
+    org:
+      springframework:
+        security: DEBUG
 
 eureka:
   instance:
